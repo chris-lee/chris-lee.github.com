@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[anotherchrislee]]></title>
-  <link href="http://chrslee.github.com/atom.xml" rel="self"/>
-  <link href="http://chrslee.github.com/"/>
-  <updated>2012-12-01T13:18:14-08:00</updated>
-  <id>http://chrslee.github.com/</id>
+  <link href="http://anotherchrislee.com/atom.xml" rel="self"/>
+  <link href="http://anotherchrislee.com/"/>
+  <updated>2012-12-01T13:29:19-08:00</updated>
+  <id>http://anotherchrislee.com/</id>
   <author>
     <name><![CDATA[Chris Lee]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[rage virus begins to spread]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/30/rage-virus-begins-to-spread/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/30/rage-virus-begins-to-spread/"/>
     <updated>2012-11-30T00:35:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/30/rage-virus-begins-to-spread</id>
+    <id>http://anotherchrislee.com/blog/2012/11/30/rage-virus-begins-to-spread</id>
     <content type="html"><![CDATA[<p>Shit.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[people becoming infected throughout all of europe]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/30/people-becoming-infected-throughout-all-of-europe/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/30/people-becoming-infected-throughout-all-of-europe/"/>
     <updated>2012-11-30T00:35:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/30/people-becoming-infected-throughout-all-of-europe</id>
+    <id>http://anotherchrislee.com/blog/2012/11/30/people-becoming-infected-throughout-all-of-europe</id>
     <content type="html"><![CDATA[<p>are we safe elsewhere?</p>
 
 <!-- more -->
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[europe becomes a barren wasteland as the rest of the world begins to fall]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/30/europe-becomes-a-barren-wasteland-as-the-rest-of-the-world-begins-to-fall/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/30/europe-becomes-a-barren-wasteland-as-the-rest-of-the-world-begins-to-fall/"/>
     <updated>2012-11-30T00:35:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/30/europe-becomes-a-barren-wasteland-as-the-rest-of-the-world-begins-to-fall</id>
+    <id>http://anotherchrislee.com/blog/2012/11/30/europe-becomes-a-barren-wasteland-as-the-rest-of-the-world-begins-to-fall</id>
     <content type="html"><![CDATA[<p>the world is ending!</p>
 
 <!-- more -->
@@ -52,27 +52,27 @@
   
   <entry>
     <title type="html"><![CDATA[scientists discover new strain of angry monekys]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/30/scientists-discover-new-strain-of-angry-monekys/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/30/scientists-discover-new-strain-of-angry-monekys/"/>
     <updated>2012-11-30T00:34:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/30/scientists-discover-new-strain-of-angry-monekys</id>
+    <id>http://anotherchrislee.com/blog/2012/11/30/scientists-discover-new-strain-of-angry-monekys</id>
     <content type="html"><![CDATA[<p>I wonder how this is going to turn out</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[rage filled monekys escape from the lab]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/30/rage-filled-monekys-escape-from-the-lab/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/30/rage-filled-monekys-escape-from-the-lab/"/>
     <updated>2012-11-30T00:34:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/30/rage-filled-monekys-escape-from-the-lab</id>
+    <id>http://anotherchrislee.com/blog/2012/11/30/rage-filled-monekys-escape-from-the-lab</id>
     <content type="html"><![CDATA[<p>I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World Post]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/28/hello-world-post/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/28/hello-world-post/"/>
     <updated>2012-11-28T23:54:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/28/hello-world-post</id>
+    <id>http://anotherchrislee.com/blog/2012/11/28/hello-world-post</id>
     <content type="html"><![CDATA[<p>Well, this is some shit isn&#8217;t it???</p>
 
 <!-- more -->

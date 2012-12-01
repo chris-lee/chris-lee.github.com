@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Zombies | anotherchrislee]]></title>
-  <link href="http://chrslee.github.com/blog/categories/zombies/atom.xml" rel="self"/>
-  <link href="http://chrslee.github.com/"/>
-  <updated>2012-12-01T13:18:14-08:00</updated>
-  <id>http://chrslee.github.com/</id>
+  <link href="http://anotherchrislee.com/blog/categories/zombies/atom.xml" rel="self"/>
+  <link href="http://anotherchrislee.com/"/>
+  <updated>2012-12-01T13:29:19-08:00</updated>
+  <id>http://anotherchrislee.com/</id>
   <author>
     <name><![CDATA[Chris Lee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World Post]]></title>
-    <link href="http://chrslee.github.com/blog/2012/11/28/hello-world-post/"/>
+    <link href="http://anotherchrislee.com/blog/2012/11/28/hello-world-post/"/>
     <updated>2012-11-28T23:54:00-08:00</updated>
-    <id>http://chrslee.github.com/blog/2012/11/28/hello-world-post</id>
+    <id>http://anotherchrislee.com/blog/2012/11/28/hello-world-post</id>
     <content type="html"><![CDATA[<p>Well, this is some shit isn't it???</p>
 
 <!-- more -->
