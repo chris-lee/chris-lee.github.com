@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[anotherchrislee]]></title>
-  <link href="http://anotherchrislee.com/atom.xml" rel="self"/>
-  <link href="http://anotherchrislee.com/"/>
-  <updated>2012-12-01T13:53:10-08:00</updated>
-  <id>http://anotherchrislee.com/</id>
+  <title><![CDATA[another chrislee]]></title>
+  <link href="http://chris-lee.github.com/atom.xml" rel="self"/>
+  <link href="http://chris-lee.github.com/"/>
+  <updated>2012-12-01T16:33:02-08:00</updated>
+  <id>http://chris-lee.github.com/</id>
   <author>
     <name><![CDATA[Chris Lee]]></name>
     
@@ -14,71 +14,32 @@
 
   
   <entry>
-    <title type="html"><![CDATA[rage virus begins to spread]]></title>
-    <link href="http://anotherchrislee.com/blog/2012/11/30/rage-virus-begins-to-spread/"/>
-    <updated>2012-11-30T00:35:00-08:00</updated>
-    <id>http://anotherchrislee.com/blog/2012/11/30/rage-virus-begins-to-spread</id>
-    <content type="html"><![CDATA[<p>Shit.</p>
+    <title type="html"><![CDATA[how i built this blog]]></title>
+    <link href="http://chris-lee.github.com/blog/2012/12/01/how-i-built-this-blog/"/>
+    <updated>2012-12-01T16:25:00-08:00</updated>
+    <id>http://chris-lee.github.com/blog/2012/12/01/how-i-built-this-blog</id>
+    <content type="html"><![CDATA[<p>Here&#8217;s a quick overview of what went into this blog design.</p>
+
+<h2>Platform</h2>
+
+<p>The previous version of anotherchrislee (which is still available <a href="http://anotherchrislee.com">here</a>) was built on <a href="http://posterous.com">Posterous</a> which was a great platform in that it allowed me to write blogs by emailing them to Posterous, but it was pretty lacking in it&#8217;s ability to customize the design. This new version is built using the <a href="http://octopress.org">Octopress</a> framework by <a href="http://brandonmathis.com/">Brandon Mathis</a>. It&#8217;s described as a &#8220;blogging framework for hackers&#8221; so if you&#8217;re looking for something quick and dirty I&#8217;d suggest going with something else like <a href="http://squarespace.com">Squarespace</a> or <a href="http://tumblr.com">Tumblr</a>. However, if you&#8217;re willing to get your hands dirty in HTML and <a href="http://sass-lang.com">SASS</a> and know how to self-host a site then I would definitely recommend Octopress. It&#8217;s been a lot of fun tweaking every detail to my heart&#8217;s content.</p>
+
+<p>Another benefit to Octopress is that all posts are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> which provides a lot more flexibility with designing your posts compared to standard web editors.</p>
+
+<h2>Hosting</h2>
+
+<p>Octopress has some really helpful <a href="http://octopress.org/docs/deploying/">guides</a> for hosting your blog and I ended up going with <a href="http://pages.github.com/">Github Pages</a> since I love using <a href="http://git-scm.com">git</a> to manage projects and I wanted to give their pages tool a whirl. Two caveats to be aware of: if you have multiple github accounts (like one for work and one for personal stuff) it&#8217;s a little bit of a pain to setup multiple keys for deploying to git and you have to name your github repo <em>username</em>.github.com. I left off the &#8220;github.com&#8221; part initially which led to a little confusion.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[people becoming infected throughout all of europe]]></title>
-    <link href="http://anotherchrislee.com/blog/2012/11/30/people-becoming-infected-throughout-all-of-europe/"/>
-    <updated>2012-11-30T00:35:00-08:00</updated>
-    <id>http://anotherchrislee.com/blog/2012/11/30/people-becoming-infected-throughout-all-of-europe</id>
-    <content type="html"><![CDATA[<p>are we safe elsewhere?</p>
+    <title type="html"><![CDATA[Time for a change]]></title>
+    <link href="http://chris-lee.github.com/blog/2012/12/01/time-for-a-change/"/>
+    <updated>2012-12-01T14:50:00-08:00</updated>
+    <id>http://chris-lee.github.com/blog/2012/12/01/time-for-a-change</id>
+    <content type="html"><![CDATA[<p>Two years ago I launched anotherchrislee.com with the goal of writing about my MBA experience and startups. A handful of posts came out of it, but nothing too exciting so today I&#8217;m relaunching my blog with a new look and feel (more about that in a sec) and a narrower focus on lessons learned launching my first startup, <a href="http://meeteor.com">Meeteor</a>.</p>
 
-<!-- more -->
-
-
-<p>is this on a new page?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[europe becomes a barren wasteland as the rest of the world begins to fall]]></title>
-    <link href="http://anotherchrislee.com/blog/2012/11/30/europe-becomes-a-barren-wasteland-as-the-rest-of-the-world-begins-to-fall/"/>
-    <updated>2012-11-30T00:35:00-08:00</updated>
-    <id>http://anotherchrislee.com/blog/2012/11/30/europe-becomes-a-barren-wasteland-as-the-rest-of-the-world-begins-to-fall</id>
-    <content type="html"><![CDATA[<p>the world is ending!</p>
-
-<!-- more -->
-
-
-<p>is this on a new page?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[scientists discover new strain of angry monekys]]></title>
-    <link href="http://anotherchrislee.com/blog/2012/11/30/scientists-discover-new-strain-of-angry-monekys/"/>
-    <updated>2012-11-30T00:34:00-08:00</updated>
-    <id>http://anotherchrislee.com/blog/2012/11/30/scientists-discover-new-strain-of-angry-monekys</id>
-    <content type="html"><![CDATA[<p>I wonder how this is going to turn out</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[rage filled monekys escape from the lab]]></title>
-    <link href="http://anotherchrislee.com/blog/2012/11/30/rage-filled-monekys-escape-from-the-lab/"/>
-    <updated>2012-11-30T00:34:00-08:00</updated>
-    <id>http://anotherchrislee.com/blog/2012/11/30/rage-filled-monekys-escape-from-the-lab</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this. I&#8217;ve got a really bad feeling about this.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World Post]]></title>
-    <link href="http://anotherchrislee.com/blog/2012/11/28/hello-world-post/"/>
-    <updated>2012-11-28T23:54:00-08:00</updated>
-    <id>http://anotherchrislee.com/blog/2012/11/28/hello-world-post</id>
-    <content type="html"><![CDATA[<p>Well, this is some shit isn&#8217;t it???</p>
-
-<!-- more -->
-
-
-<p>is this on a new page?</p>
+<p>We&#8217;re over two years in to that adventure and I never could&#8217;ve guessed just how much I didn&#8217;t know when first starting a company. One of the main reasons for this blog is to document that knowledge for the future and (hopefully) help someone else learn from it.</p>
 ]]></content>
   </entry>
   
